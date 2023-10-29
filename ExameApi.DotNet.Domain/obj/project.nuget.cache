@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2IsvJxgSL2MpG/Fn6891ULBN4u9VwOSZC56ghQeeVTUO1XXax//LfFCMtLlDOsOnJjGoxIiDkkMh5rT/t4J1g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Domain\\ExameApi.DotNet.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cintia.valente\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\cintia.valente\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

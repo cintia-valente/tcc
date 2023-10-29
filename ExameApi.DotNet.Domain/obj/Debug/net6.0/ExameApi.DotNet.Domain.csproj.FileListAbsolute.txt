@@ -1,0 +1,12 @@
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\obj\Debug\net6.0\ExameApi.DotNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\obj\Debug\net6.0\ExameApi.DotNet.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\obj\Debug\net6.0\ExameApi.DotNet.Domain.AssemblyInfo.cs
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\obj\Debug\net6.0\ExameApi.DotNet.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\bin\Debug\net6.0\ExameApi.DotNet.Domain.deps.json
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\bin\Debug\net6.0\ExameApi.DotNet.Domain.dll
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\bin\Debug\net6.0\ExameApi.DotNet.Domain.pdb
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\obj\Debug\net6.0\ExameApi.DotNet.Domain.dll
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\obj\Debug\net6.0\refint\ExameApi.DotNet.Domain.dll
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\obj\Debug\net6.0\ExameApi.DotNet.Domain.pdb
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\obj\Debug\net6.0\ref\ExameApi.DotNet.Domain.dll
+C:\Projetos\ExameApi\ExameApi.DotNet.Domain\obj\Debug\net6.0\ExameApi.DotNet.Domain.csproj.AssemblyReference.cache

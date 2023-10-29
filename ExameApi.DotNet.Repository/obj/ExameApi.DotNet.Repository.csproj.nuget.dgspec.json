@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Repository\\ExameApi.DotNet.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Domain\\ExameApi.DotNet.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Domain\\ExameApi.DotNet.Domain.csproj",
+        "projectName": "ExameApi.DotNet.Domain",
+        "projectPath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Domain\\ExameApi.DotNet.Domain.csproj",
+        "packagesPath": "C:\\Users\\cintia.valente\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cintia.valente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Persistence\\ExameApi.DotNet.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Persistence\\ExameApi.DotNet.Persistence.csproj",
+        "projectName": "ExameApi.DotNet.Persistence",
+        "projectPath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Persistence\\ExameApi.DotNet.Persistence.csproj",
+        "packagesPath": "C:\\Users\\cintia.valente\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cintia.valente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Domain\\ExameApi.DotNet.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Domain\\ExameApi.DotNet.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Repository\\ExameApi.DotNet.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Repository\\ExameApi.DotNet.Repository.csproj",
+        "projectName": "ExameApi.DotNet.Repository",
+        "projectPath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Repository\\ExameApi.DotNet.Repository.csproj",
+        "packagesPath": "C:\\Users\\cintia.valente\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cintia.valente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Domain\\ExameApi.DotNet.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Domain\\ExameApi.DotNet.Domain.csproj"
+              },
+              "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Persistence\\ExameApi.DotNet.Persistence.csproj": {
+                "projectPath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Persistence\\ExameApi.DotNet.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

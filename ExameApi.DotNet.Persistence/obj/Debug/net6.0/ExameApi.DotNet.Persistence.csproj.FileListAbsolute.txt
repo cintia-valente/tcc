@@ -1,0 +1,17 @@
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\bin\Debug\net6.0\ExameApi.DotNet.Persistence.deps.json
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\bin\Debug\net6.0\ExameApi.DotNet.Persistence.runtimeconfig.json
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\bin\Debug\net6.0\ExameApi.DotNet.Persistence.dll
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\bin\Debug\net6.0\ExameApi.DotNet.Persistence.pdb
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\bin\Debug\net6.0\ExameApi.DotNet.Domain.dll
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\bin\Debug\net6.0\ExameApi.DotNet.Domain.pdb
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ExameApi.DotNet.Persistence.csproj.AssemblyReference.cache
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ExameApi.DotNet.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ExameApi.DotNet.Persistence.AssemblyInfoInputs.cache
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ExameApi.DotNet.Persistence.AssemblyInfo.cs
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ExameApi.DotNet.Persistence.csproj.CoreCompileInputs.cache
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ExameApi.DotNet.Persistence.csproj.CopyComplete
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ExameApi.DotNet.Persistence.dll
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\refint\ExameApi.DotNet.Persistence.dll
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ExameApi.DotNet.Persistence.pdb
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ExameApi.DotNet.Persistence.genruntimeconfig.cache
+C:\Projetos\ExameApi\ExameApi.DotNet.Persistence\obj\Debug\net6.0\ref\ExameApi.DotNet.Persistence.dll
