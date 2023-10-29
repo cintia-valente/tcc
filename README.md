@@ -1,2 +1,2 @@
 # tcc
-Trabalho de Conclusão de Curso -UFRGS
+Trabalho de Conclusão de Curso - UFRGS
