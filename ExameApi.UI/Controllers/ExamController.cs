@@ -40,7 +40,7 @@ public class ExamController : ControllerBase
     }
 
     /// <summary>
-    /// Lista todos os exames
+    /// Lista todos os exames.
     /// </summary>
     [HttpGet()]
     public async Task<IEnumerable<Exam>> GetWeatherWithWeatherData()
@@ -51,7 +51,7 @@ public class ExamController : ControllerBase
     }
 
     /// <summary>
-    /// Lista registros de exames pelo id.
+    /// Lista um exame pelo id.
     /// </summary>
     [HttpGet("{id}")]
     public async Task<IActionResult> GetExamById(Guid id)

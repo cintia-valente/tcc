@@ -41,11 +41,16 @@ public class PatientRepository : IPatientRepository
             .ToListAsync();
     }
 
-    public async Task<Patient> FindById(Guid? idPatient)
+    public async Task<Patient> FindById(Guid? id)
     {
-        var x = await _context.PatientData.Include(patient => patient.ExamList).FirstOrDefaultAsync(data => data.IdPatient == idPatient);
-        return x;
-
+        return await _context.PatientData
+            .Include(p => p.ExamList)
+            .FirstOrDefaultAsync(p => p.IdPatient == id);
     }
 
+    public async Task Update(Patient patient)
+    {
+        _context.Entry(patient).State = EntityState.Modified;
+        await _context.SaveChangesAsync();
+    }
 }

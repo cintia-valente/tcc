@@ -10,4 +10,5 @@ public interface IPatientRepository
 
     Task<List<Patient>> GetPatientsByAgeAndGender(int age, Gender gender);
     Task<Patient?> FindById(Guid? idPatient);
+    Task Update(Patient patient);
 }

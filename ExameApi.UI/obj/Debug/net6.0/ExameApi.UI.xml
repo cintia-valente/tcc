@@ -16,22 +16,32 @@
         </member>
         <member name="M:ExameApi.UI.Controllers.ExamController.GetWeatherWithWeatherData">
             <summary>
-            Lista todos os exames
+            Lista todos os exames.
             </summary>
         </member>
         <member name="M:ExameApi.UI.Controllers.ExamController.GetExamById(System.Guid)">
             <summary>
-            Lista registros de exames pelo id.
+            Lista um exame pelo id.
             </summary>
         </member>
         <member name="M:ExameApi.UI.Controllers.PatientController.PostPatient(ExamApi.DotNet.Domain.Data.Dtos.PatientDto)">
             <summary>
-            Cria um paciente
+            Cria um paciente.
+            </summary>
+        </member>
+        <member name="M:ExameApi.UI.Controllers.PatientController.GetPatient">
+            <summary>
+            Lista todos os pacientes.
             </summary>
         </member>
         <member name="M:ExameApi.UI.Controllers.PatientController.GetPatientForId(System.Guid)">
             <summary>
-            Lista um paciente por id
+            Lista um paciente por id.
+            </summary>
+        </member>
+        <member name="M:ExameApi.UI.Controllers.PatientController.PutPatient(System.Guid,ExamApi.DotNet.Domain.Data.Dtos.PatientDto)">
+            <summary>
+            Atualiza um paciente.
             </summary>
         </member>
     </members>

@@ -1,6 +1,5 @@
-﻿
+﻿using ExamApi.DotNet.Domain.Data.Dtos;
 using ExamApi.DotNet.Domain.Entity;
-using System.Threading.Tasks;
 
 namespace ExameApi.DotNet.Application.Service.Interface;
 
@@ -8,5 +7,6 @@ public interface IPatientService
 {
     Task<Patient> Save(Patient patient);
     Task<IEnumerable<Patient>> FindAll();
-    Task<Patient> FindById(Guid id);
+    Task<Patient> FindById(Guid id, bool tracking = true);
+    Task Update(Guid idPatient, PatientDto patientDto);
 }

@@ -3,6 +3,7 @@ using ExamApi.DotNet.Domain.Data.Dtos;
 using ExamApi.DotNet.Domain.Entity;
 using ExameApi.DotNet.Application.Service.Interface;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace ExameApi.UI.Controllers;
 
@@ -20,7 +21,7 @@ public class PatientController : ControllerBase
     }
 
     /// <summary>
-    /// Cria um paciente
+    /// Cria um paciente.
     /// </summary>
     [HttpPost("register")]
     [ProducesResponseType(StatusCodes.Status201Created)]
@@ -35,20 +36,40 @@ public class PatientController : ControllerBase
         return CreatedAtAction(nameof(GetPatientForId), new { id = patientSave.IdPatient }, patientSave);
     }
 
+    /// <summary>
+    /// Lista todos os pacientes.
+    /// </summary>
     [HttpGet("all")]
-    public async Task<IEnumerable<Patient>> GetCitiesWithWeatherData()
+    public async Task<IEnumerable<Patient>> GetPatient()
     {
         var result = await _patientService.FindAll();
-        return (IEnumerable<Patient>)result;
+        return result.ToList();
     }
 
     /// <summary>
-    /// Lista um paciente por id
+    /// Lista um paciente por id.
     /// </summary>
     [HttpGet("{id}")]
-    public async Task<IActionResult> GetPatientForId(Guid id)
+    public async Task<IActionResult> GetPatientForId(Guid idPatient)
     {
-        var patient = await _patientService.FindById(id);
-        return patient is null ? NotFound("Patient not found") : Ok(patient);
+        var patient = await _patientService.FindById(idPatient);
+        return Ok(patient);
+    }
+
+    /// <summary>
+    /// Atualiza um paciente.
+    /// </summary>
+    [HttpPut("{id}")]
+    public async Task<IActionResult> PutPatient(Guid id, [FromBody] PatientDto patientDto)
+    {
+        try
+        {
+            await _patientService.Update(id, patientDto);
+            return Ok();
+        }
+        catch (ArgumentException ex)
+        {
+            return NotFound(ex.Message);
+        }
     }
 }
