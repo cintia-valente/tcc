@@ -60,12 +60,12 @@ public class ExamService : IExamService
 
         if (age <= 12)
         {
-            requiredExams.AddRange(new List<string> { "Parasitológico (fezes)", "Glicemia e insulina", "Sorologia" });
+            requiredExams.AddRange(new List<string> { "Parasitológico", "Glicemia e insulina", "Sorologia" });
         }
 
-        if (age <= 18)
+        if (age > 12 && age <= 18)
         {
-            requiredExams.AddRange(new List<string> {"Lipidograma", "PCR" });
+            requiredExams.AddRange(new List<string> { "Lipidograma", "PCR" });
         }
 
         if (age >= 35)
