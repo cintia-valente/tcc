@@ -1,5 +1,4 @@
-﻿
-using AutoMapper;
+﻿using AutoMapper;
 using ExamApi.DotNet.Domain.Data.Dtos;
 using ExamApi.DotNet.Domain.Entity;
 using ExameApi.DotNet.Application.Service.Interface;
@@ -18,9 +17,10 @@ public class PatientService : IPatientService
         _mapper = mapper;
     }
 
-    public async Task<Patient> Save(Patient patient)
+    public async Task<Patient> Save(PatientDto patientDto)
     {
-        var patientSaved = await _patientRepository.Save(patient);
+        var patientConverter = _mapper.Map<Patient>(patientDto);
+        var patientSaved = await _patientRepository.Save(patientConverter);
         return patientSaved;
     }
 

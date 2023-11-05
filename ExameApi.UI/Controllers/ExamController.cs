@@ -18,7 +18,7 @@ public class ExamController : ControllerBase
     }
 
     /// <summary>
-    /// Cria um exame
+    /// Cria um exame.
     /// </summary>
     [HttpPost("register")]
     [ProducesResponseType(StatusCodes.Status201Created)]

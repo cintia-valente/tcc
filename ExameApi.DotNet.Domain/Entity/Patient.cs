@@ -1,4 +1,5 @@
 ﻿
+using ExamApi.DotNet.Domain.Data.Dtos;
 using ExameApi.DotNet.Domain.Entity.Enum;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -16,5 +17,6 @@ public class Patient
     public Gender Gender { get; set; }
 
     [ForeignKey("IdPatient")]
-    public virtual List<Exam> ExamList { get; set; } = new List<Exam>();    
+    public virtual List<Exam> ExamList { get; set; } = new List<Exam>();
+
 }

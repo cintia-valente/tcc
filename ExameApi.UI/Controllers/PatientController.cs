@@ -30,8 +30,7 @@ public class PatientController : ControllerBase
     {
         if (!ModelState.IsValid) return BadRequest(ModelState);
 
-        var patientConverter = _mapper.Map<Patient>(postPatientDTO);
-        var patientSave = await _patientService.Save(patientConverter);
+        var patientSave = await _patientService.Save(postPatientDTO);
 
         return CreatedAtAction(nameof(GetPatientForId), new { id = patientSave.IdPatient }, patientSave);
     }

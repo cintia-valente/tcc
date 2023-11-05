@@ -4,7 +4,6 @@ using ExamApi.DotNet.Domain.Entity;
 using ExameApi.DotNet.Application.Service.Interface;
 using ExameApi.DotNet.Domain.Entity.Enum;
 using ExameApi.DotNet.Repository.Interface;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace ExameApi.DotNet.Application.Service;
 

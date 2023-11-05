@@ -6,7 +6,7 @@
     <members>
         <member name="M:ExameApi.UI.Controllers.ExamController.PostExam(ExamApi.DotNet.Domain.Data.Dtos.ExamDto)">
             <summary>
-            Cria um exame
+            Cria um exame.
             </summary>
         </member>
         <member name="M:ExameApi.UI.Controllers.ExamController.GetExamsByAgeAndGender(System.Nullable{System.Int32},System.Nullable{ExameApi.DotNet.Domain.Entity.Enum.Gender})">
