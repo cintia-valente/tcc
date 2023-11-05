@@ -15,7 +15,7 @@ namespace ExameApi.DotNet.Persistence.Migrations
                 {
                     IdPatient = table.Column<Guid>(type: "uuid", nullable: false),
                     Name = table.Column<string>(type: "text", nullable: false),
-                    Age = table.Column<string>(type: "text", nullable: false),
+                    Age = table.Column<int>(type: "integer", nullable: false),
                     Gender = table.Column<int>(type: "integer", nullable: false)
                 },
                 constraints: table =>
@@ -31,7 +31,7 @@ namespace ExameApi.DotNet.Persistence.Migrations
                     Name = table.Column<string>(type: "text", nullable: false),
                     Description = table.Column<string>(type: "text", nullable: false),
                     UrlLocations = table.Column<string>(type: "text", nullable: false),
-                    IdPatient = table.Column<Guid>(type: "uuid", nullable: false)
+                    IdPatient = table.Column<Guid>(type: "uuid", nullable: true)
                 },
                 constraints: table =>
                 {

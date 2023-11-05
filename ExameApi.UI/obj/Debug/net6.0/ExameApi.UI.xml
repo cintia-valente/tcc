@@ -4,5 +4,35 @@
         <name>ExameApi.UI</name>
     </assembly>
     <members>
+        <member name="M:ExameApi.UI.Controllers.ExamController.PostExam(ExamApi.DotNet.Domain.Data.Dtos.ExamDto)">
+            <summary>
+            Cria um exame
+            </summary>
+        </member>
+        <member name="M:ExameApi.UI.Controllers.ExamController.GetExamsByAgeAndGender(System.Nullable{System.Int32},System.Nullable{ExameApi.DotNet.Domain.Entity.Enum.Gender})">
+            <summary>
+            Lista os exames pelo sexo e idade do paciente.
+            </summary>
+        </member>
+        <member name="M:ExameApi.UI.Controllers.ExamController.GetWeatherWithWeatherData">
+            <summary>
+            Lista todos os exames
+            </summary>
+        </member>
+        <member name="M:ExameApi.UI.Controllers.ExamController.GetExamById(System.Guid)">
+            <summary>
+            Lista registros de exames pelo id.
+            </summary>
+        </member>
+        <member name="M:ExameApi.UI.Controllers.PatientController.PostPatient(ExamApi.DotNet.Domain.Data.Dtos.PatientDto)">
+            <summary>
+            Cria um paciente
+            </summary>
+        </member>
+        <member name="M:ExameApi.UI.Controllers.PatientController.GetPatientForId(System.Guid)">
+            <summary>
+            Lista um paciente por id
+            </summary>
+        </member>
     </members>
 </doc>

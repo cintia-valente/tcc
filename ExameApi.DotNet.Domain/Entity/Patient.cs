@@ -1,4 +1,5 @@
-﻿using ExameApi.DotNet.Domain.Entity.Enum;
+﻿
+using ExameApi.DotNet.Domain.Entity.Enum;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -9,7 +10,9 @@ public class Patient
     [Key]
     public Guid IdPatient { get; set; }
     public string Name { get; set; }
-    public string Age { get; set; }
+    public int Age { get; set; }
+
+    [EnumDataType(typeof(Gender))]
     public Gender Gender { get; set; }
 
     [ForeignKey("IdPatient")]

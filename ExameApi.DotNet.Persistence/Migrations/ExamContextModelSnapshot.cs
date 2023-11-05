@@ -32,7 +32,7 @@ namespace ExameApi.DotNet.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<Guid>("IdPatient")
+                    b.Property<Guid?>("IdPatient")
                         .HasColumnType("uuid");
 
                     b.Property<string>("Name")
@@ -56,9 +56,8 @@ namespace ExameApi.DotNet.Persistence.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uuid");
 
-                    b.Property<string>("Age")
-                        .IsRequired()
-                        .HasColumnType("text");
+                    b.Property<int>("Age")
+                        .HasColumnType("integer");
 
                     b.Property<int>("Gender")
                         .HasColumnType("integer");
@@ -80,8 +79,7 @@ namespace ExameApi.DotNet.Persistence.Migrations
                     b.HasOne("ExamApi.DotNet.Domain.Entity.Patient", "Patient")
                         .WithMany("ExamList")
                         .HasForeignKey("IdPatient")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.Cascade);
 
                     b.Navigation("Patient");
                 });

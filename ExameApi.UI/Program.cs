@@ -1,12 +1,13 @@
 using ExameApi.DotNet.Application.Service.Interface;
 using ExameApi.DotNet.Application.Service;
 using ExameApi.DotNet.Persistence;
-using ExameApi.DotNet.Repository.Repository.Interface;
 using ExameApi.DotNet.Repository.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
 using System.Text.Json.Serialization;
+using ExameApi.DotNet.Repository.Interface;
+using ExameApi.DotNet.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
