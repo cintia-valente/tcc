@@ -1,6 +1,4 @@
-﻿
-using ExamApi.DotNet.Domain.Data.Dtos;
-using ExameApi.DotNet.Domain.Entity.Enum;
+﻿using ExameApi.DotNet.Domain.Entity.Enum;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
