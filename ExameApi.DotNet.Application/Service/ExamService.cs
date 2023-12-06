@@ -4,6 +4,7 @@ using ExamApi.DotNet.Domain.Entity;
 using ExameApi.DotNet.Application.Service.Interface;
 using ExameApi.DotNet.Domain.Entity.Enum;
 using ExameApi.DotNet.Repository.Interface;
+using Newtonsoft.Json;
 
 namespace ExameApi.DotNet.Application.Service;
 
@@ -12,12 +13,16 @@ public class ExamService : IExamService
     private readonly IExamRepository _examRepository;
     private readonly IPatientRepository _patientRepository;
     private readonly IMapper _mapper;
+    private List<Exam> exams;
 
     public ExamService(IExamRepository examRepository, IPatientRepository patientRepository, IMapper mapper)
     {
         _examRepository = examRepository;
         _patientRepository = patientRepository;
         _mapper = mapper;
+
+        string json = File.ReadAllText("exams.json");
+        exams = JsonConvert.DeserializeObject<List<Exam>>(json);
     }
 
     public async Task<Exam> Save(ExamDto examDto)

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l4xKBTuMcK0VzkCSW50Gwewc0lWGn/ZkzeYplc77OmwAk291sllMebCEN4uvMQ9fyvc7DQsd0V1j+InPFJ9pBw==",
+  "dgSpecHash": "uimhOxgvMhSbq9naQLAGwtz6KuH0e7AoVaY4meyScn4ABTQ0RMxelrrHLu2Ow3qhwGyCg7O46ZzVU5RKgMSvCQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Application\\ExameApi.DotNet.Application.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\cintia.valente\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\microsoft.net.http.headers\\2.1.1\\microsoft.net.http.headers.2.1.1.nupkg.sha512",
+    "C:\\Users\\cintia.valente\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\npgsql\\6.0.10\\npgsql.6.0.10.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.22\\npgsql.entityframeworkcore.postgresql.6.0.22.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",

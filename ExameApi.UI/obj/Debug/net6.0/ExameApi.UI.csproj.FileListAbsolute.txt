@@ -52,3 +52,5 @@ C:\Projetos\ExameApi\ExameApi.UI\obj\Debug\net6.0\ExameApi.UI.genruntimeconfig.c
 C:\Projetos\ExameApi\ExameApi.UI\obj\Debug\net6.0\ref\ExameApi.UI.dll
 C:\Projetos\ExameApi\ExameApi.UI\bin\Debug\net6.0\ExameApi.UI.xml
 C:\Projetos\ExameApi\ExameApi.UI\obj\Debug\net6.0\ExameApi.UI.xml
+C:\Projetos\ExameApi\ExameApi.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\ExameApi\ExameApi.UI\bin\Debug\net6.0\exams.json

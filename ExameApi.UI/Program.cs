@@ -27,6 +27,8 @@ builder.Services.AddScoped<IPatientService, PatientService>();
 builder.Services.AddScoped<IExamRepository, ExamRepository>();
 builder.Services.AddScoped<IExamService, ExamService>();
 
+builder.Services.AddTransient<SeedDataService>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -53,6 +55,18 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
     app.UseCors(builder => builder.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader());
 }
+
+app.Use(async (context, next) =>
+{
+    using (var scope = app.Services.CreateScope())
+    {
+        var seedDataService = scope.ServiceProvider.GetRequiredService<SeedDataService>();
+
+        seedDataService.SeedExamsFromJson("exams.json");
+    }
+
+    await next();
+});
 
 app.UseHttpsRedirection();
 

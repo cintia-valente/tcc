@@ -1,0 +1,107 @@
+﻿[
+  {
+    "Name": "Eletrocardiograma",
+    "Description": "Um dos exames realizados para a avaliação da saúde cardiovascular. Com ele, é possível identificar anormalidades do ritmo cardíaco, presença de arritmias, hipertrofias e ate o infarto do miocárdio.",
+    "UrlLocations": "https://www.google.com/search?q=exame+eletrocardiograma+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKn2pUJamr2nh1hGj1dW4bpogs1MnQ%3A1699141746323&ei=cthGZb-sE83z1sQP-qmJuAo&ved=0ahUKEwi_rdmhxKuCAxXNuZUCHfpUAqcQ4dUDCAk&uact=5&oq=exame+eletrocardiograma+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIj9leGFtZSBlbGV0cm9jYXJkaW9ncmFtYSBlbSBwb3J0byBhbGVncmUgZSByZWdpw6NvIG1ldHJvcG9saXRhbmFIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.007739,-51.1636403],[-30.062456599999997,-51.2326841]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Mamografia",
+    "Description": "Exame radiológico feito nas mamas. Possui alta resolução e fornece imagens detalhadas capazes de identificar precocemente o câncer de mama, antes mesmo que a mulher tenha sintomas.",
+    "UrlLocations": "https://www.google.com/search?q=exame+de+mamografia+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKk243CkMBfywW0Gtj77ZZGhnc8VeA%3A1699142246946&ei=ZtpGZfWKOa_c1sQP2vKbmAc&ved=0ahUKEwj11bSQxquCAxUvrpUCHVr5BnMQ4dUDCAk&uact=5&oq=exame+de+mamografia+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjtleGFtZSBkZSBtYW1vZ3JhZmlhIGVtIHBvcnRvIGFsZWdyZSBlIHJlZ2nDo28gbWV0cm9wb2xpdGFuYTIEECMYJ0iYCFANWKMGcAB4AJABAJgBhgGgAf4CqgEDMC4zuAEDyAEA-AEBwgIHECMYsAIYJ4gGAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.004221299999998,-51.13686750000001],[-30.068682100000004,-51.2374606]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Hemograma completo",
+    "Description": "Detecta possíveis infecções, alterações e doenças, faz uma avaliação quantitativa e qualitativa sobre os 3 principais tipos de células que compõem o sangue e mostra se seus níveis são baixos, normais ou altos.",
+    "UrlLocations": "https://www.google.com/search?q=hemograma+completo+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKlWqxFbWYO0IziJC5VpHikzIE0wjQ%3A1699139187468&ei=c85GZZH7G53Z1sQP_5GnoA4&ved=0ahUKEwjRgMXduquCAxWdrJUCHf_ICeQQ4dUDCAk&uact=5&oq=hemograma+completo+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjpoZW1vZ3JhbWEgY29tcGxldG8gZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5hMgQQIxgnSNIDUABYPHAAeACQAQKYAe4BoAGUBKoBBTAuMi4xuAEDyAEA-AEBiAYB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.007759099999994,-51.1491233],[-30.0496164,-51.2349373]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Densitometria óssea",
+    "Description": "Avaliação da massa óssea para diagnóstico da osteoporose e osteopenia.",
+    "UrlLocations": "https://www.google.com/search?q=exame+densitometria+%C3%B3ssea+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKlfTTBl0yhdfuvSIp_I4olt7bV1fw%3A1699143202277&ei=It5GZbvAEO691sQPufKFmAk&ved=0ahUKEwi72fnXyauCAxXunpUCHTl5AZMQ4dUDCAk&uact=5&oq=exame+densitometria+%C3%B3ssea+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIkJleGFtZSBkZW5zaXRvbWV0cmlhIMOzc3NlYSBlbSBwb3J0byBhbGVncmUgZSByZWdpw6NvIG1ldHJvcG9saXRhbmFIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.002259100000003,-51.1357249],[-30.1033491,-51.2576459]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "TSH e T4",
+    "Description": "Avalia a tireoide no sangue e analisa o hormônio que possa estar em excesso causando o hipertireoidismo ou hipotireoidismo.",
+    "UrlLocations": "https://www.google.com/search?q=exame+endocrinolia+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKm3k7fVXSoade-rzySyzUjiMjsxqw%3A1699141701386&ei=RdhGZcXFFpzW1sQP-KqauAk&ved=0ahUKEwiF_KGMxKuCAxUcq5UCHXiVBpcQ4dUDCAk&uact=5&oq=exame+endocrinolia+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjpleGFtZSBlbmRvY3Jpbm9saWEgZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5hMgoQIRigARjDBBgKMgoQIRigARjDBBgKMgoQIRigARjDBBgKMgoQIRigARjDBBgKMgQQIRgKSJpGUPkGWIdFcAF4AJABAJgBkgKgAZMSqgEGMC4xMi4yuAEDyAEA-AEBwgIEECMYJ8ICCBAhGKABGMMEiAYB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.0133092,-51.1590056],[-30.089831699999994,-51.2520066]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Teste ergométrico",
+    "Description": "Avalia as funções cardíacas em movimento. Durante o teste, o paciente caminha ou corre em uma esteira ou bicicleta ergométrica, enquanto é monitorado por um equipamento que registra a frequência cardíaca, a pressão arterial e outros sinais vitais.",
+    "UrlLocations": "https://www.google.com/search?q=onde+fazer+teste+ergom%C3%A9trico+em+porto+alegre+e+regi%C3%A3o&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&sxsrf=AM9HkKluJ-o8l-dL9WeKBZMjLPnlNTR2NQ:1699143081603&tbas=0&biw=1280&bih=571&dpr=1.5#ip=1",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Exame de urina",
+    "Description": "Utilizado para identificar infecções do trato urinário, doenças renais e doenças sistêmicas, além de ajudar a detectar bactérias e se há perda de nutrientes.",
+    "UrlLocations": "https://www.google.com/search?q=exame+de+urina+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKn5HfxDLGNLdYkE7sTXz8qnP2RYIw%3A1699139197631&ei=fc5GZa6QJvWQ1sQPhM2c-AU&ved=0ahUKEwjuwrHiuquCAxV1iJUCHYQmB18Q4dUDCAk&uact=5&oq=exame+de+urina+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjZleGFtZSBkZSB1cmluYSBlbSBwb3J0byBhbGVncmUgZSByZWdpw6NvIG1ldHJvcG9saXRhbmEyCBAhGKABGMMESOMrUKsCWJ4qcAZ4AJABAJgB6AGgAfcgqgEGMC4yNi4xuAEDyAEA-AEBwgIEECMYJ8ICBhAAGAcYHsICCBAAGAcYHhgPwgIIEAAYBRgHGB7CAgoQIRigARjDBBgKiAYB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.007759099999994,-51.1023084],[-30.0496164,-51.2375872]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "PCR",
+    "Description": "PCR é sigla para Proteína C-reativa, uma proteína que é produzida pelo fígado. Detecta infecções, doenças reumáticas e cardiovasculares, como infarto e AVC.",
+    "UrlLocations": "https://www.google.com/search?q=exame+de+PCR+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKn4ZKmHXD8PQszMTVjH6OdaBxBINw%3A1699142784665&ei=gNxGZauXKPGY1sQPnYyZ2Ao&ved=0ahUKEwir1-iQyKuCAxVxjJUCHR1GBqsQ4dUDCAk&uact=5&oq=exame+de+PCR+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjRleGFtZSBkZSBQQ1IgZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5hMgQQIxgnSKgNULkDWI8KcAF4AJABAJgBogGgAY4GqgEDMC42uAEDyAEA-AEBwgIFEAAYogTCAggQABiJBRiiBMICChAhGKABGMMEGArCAgcQIxiwAhgniAYB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-29.9900107,-51.1004842],[-30.082099699999993,-51.2376904]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Sorologia",
+    "Description": "Identifica o tipo de vírus causador da hepatite, pode detectar e diferenciar as hepatites A, B, C, D ou E, avalia o sistema imunológico e a necessidade de reforço na vacinação.",
+    "UrlLocations": "https://www.google.com/search?q=exame+sorologia+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKl_4Grb5L28OIT0aXS5CwtTzqDshw%3A1699140959315&ei=X9VGZa7XEsTN1sQP-96ssAg&ved=0ahUKEwjugraqwauCAxXEppUCHXsvC4YQ4dUDCAk&uact=5&oq=exame+sorologia+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjdleGFtZSBzb3JvbG9naWEgZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5hMggQIRigARjDBEjoKVAAWMIocAB4AJABAJgBrgGgAYMWqgEEMC4yMLgBA8gBAPgBAcICBRAAGKIEwgIKECEYoAEYwwQYCogGAQ&sclient=gws-wiz-local#rlfi=hd:;si:13484180955839777299,l,CjdleGFtZSBzb3JvbG9naWEgZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5hSJDyu_2Xq4CACFpFEAAQARAGEAcYAxgEIjdleGFtZSBzb3JvbG9naWEgZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5hkgEKbGFib3JhdG9yeaoBnQEQASo7IjdleGFtZSBzb3JvbG9naWEgZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5hKAwyHxABIhtPMB9dQYxr99-qEhDa1YhRACA2s_i7CVUW324yOxACIjdleGFtZSBzb3JvbG9naWEgZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5h;mv:[[-30.005971600000002,-51.1004842],[-30.081196300000002,-51.2376904]]",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Papanicolau",
+    "Description": "Verifica anomalias ou lesões no colo do útero, além de servir para a detecção de lesões precursoras do câncer do colo do útero e da infecção pelo HPV, também indica se você tem alguma outra infecção que precisa ser tratada.",
+    "UrlLocations": "https://www.google.com/search?q=exame+de+ginecologia+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKmVXTz7xNh4sLoO14i1tYZhkAfdSw%3A1699141979662&ei=W9lGZdT0J6bQ1sQPjvmuGA&oq=exame+de+gin+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjRleGFtZSBkZSBnaW4gZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5hKgIIADIIECEYoAEYwwRIkR5QowVYqBBwAHgAkAEAmAGxAaABtgmqAQMwLji4AQPIAQD4AQHCAgQQIxgniAYB&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.0082372,-51.1545176],[-30.0580045,-51.234935400000005]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Glicemia e insulina",
+    "Description": "Essenciais para verificar se a criança está com os níveis corretos e não apresenta um quadro de diabetes.",
+    "UrlLocations": "https://www.google.com/search?q=exame+Glicemia+e+insulina+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKliybxm-RMAEbjxSV62rKa7nHm0kA%3A1699140545059&ei=wdNGZZWTA7PW1sQPs6O58AU&ved=0ahUKEwjV9_Hkv6uCAxUzq5UCHbNRDl4Q4dUDCAk&uact=5&oq=exame+Glicemia+e+insulina+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIkFleGFtZSBHbGljZW1pYSBlIGluc3VsaW5hIGVtIHBvcnRvIGFsZWdyZSBlIHJlZ2nDo28gbWV0cm9wb2xpdGFuYUgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQE&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.004739999999998,-51.134252000000004],[-30.108498500000003,-51.2386411]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Parasitológico",
+    "Description": "Exame de fezes, que identifica parasitas, patologias e infecções.",
+    "UrlLocations": "https://www.google.com/search?q=exame+gastroenterologista+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKnzE6_yXc6ka1LGEZ_1_Z4X5E66hw%3A1699139719904&ei=h9BGZYPfNq691sQP8aqSsAE&ved=0ahUKEwjDvrbbvKuCAxWunpUCHXGVBBYQ4dUDCAk&uact=5&oq=exame+gastroenterologista+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIkFleGFtZSBnYXN0cm9lbnRlcm9sb2dpc3RhIGVtIHBvcnRvIGFsZWdyZSBlIHJlZ2nDo28gbWV0cm9wb2xpdGFuYTIEECMYJ0j1AlCiAViiAXAAeACQAQCYAYUBoAGFAaoBAzAuMbgBA8gBAPgBAvgBAYgGAQ&sclient=gws-wiz-local#rlfi=hd:;si:4774752972555562932,l,CkFleGFtZSBnYXN0cm9lbnRlcm9sb2dpc3RhIGVtIHBvcnRvIGFsZWdyZSBlIHJlZ2nDo28gbWV0cm9wb2xpdGFuYUjb0Na996qAgAhaURAAEAEQBhAHGAEYAxgEIkFleGFtZSBnYXN0cm9lbnRlcm9sb2dpc3RhIGVtIHBvcnRvIGFsZWdyZSBlIHJlZ2nDo28gbWV0cm9wb2xpdGFuYZIBEmdhc3Ryb2VudGVyb2xvZ2lzdJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSNGFEZElPVmhuRUFFqgGxARABKkUiQWV4YW1lIGdhc3Ryb2VudGVyb2xvZ2lzdGEgZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5hKAwyHxABIhu6xXnZm-8A100xA0eY8ZsFaV28X3ImzsAHFNUyRRACIkFleGFtZSBnYXN0cm9lbnRlcm9sb2dpc3RhIGVtIHBvcnRvIGFsZWdyZSBlIHJlZ2nDo28gbWV0cm9wb2xpdGFuYQ;mv:[[-30.0078506,-51.1526807],[-30.089180499999998,-51.2346447]]",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "PSA e toque retal",
+    "Description": "Possibilita identificar sinais de doenças na próstata, como prostatite (inflamação da próstata), hiperplasia (aumento da próstata) e câncer de próstata.",
+    "UrlLocations": "https://www.google.com/search?q=urologista+e+proctologista+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKnqhkQSVR3xbQagKl-N2S9JWOQyRQ%3A1699142642057&ei=8ttGZaaMA9jP1sQPg6SUmA0&oq=urologista+e+pro+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjh1cm9sb2dpc3RhIGUgcHJvIGVtIHBvcnRvIGFsZWdyZSBlIHJlZ2nDo28gbWV0cm9wb2xpdGFuYSoCCAAyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwRIwDpQ2QFYlTBwAXgAkAEAmAG8AaABgB2qAQQwLjI1uAEDyAEA-AEBwgIEECMYJ8ICBhAAGAcYHsICCBAAGAcYHhgPwgIKECEYoAEYwwQYCogGAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.0208763,-51.1592213],[-30.047250100000003,-51.2278698]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Glicemia",
+    "Description": "Verifica, principalmente, a quantidade de açúcares presentes na circulação do sangue. A análise detecta quando há sinais de hipoglicemia, ou seja, pouco açúcar na corrente sanguínea. Além disso, apresenta os indícios de hiperglicemia, quando existe o excesso de sacarose. Consequentemente, essa é uma das verificações mais comuns para o diagnóstico e o acompanhamento da diabetes.",
+    "UrlLocations": "https://www.google.com/search?q=exame+Glicemia+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKnSKH3rPJZ2SU6lNSpF-6p8mRBLhw%3A1699140608466&ei=ANRGZZfyG5vN1sQPhI6SsAI&ved=0ahUKEwiX8o-DwKuCAxWbppUCHQSHBCYQ4dUDCAk&uact=5&oq=exame+Glicemia+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjZleGFtZSBHbGljZW1pYSBlbSBwb3J0byBhbGVncmUgZSByZWdpw6NvIG1ldHJvcG9saXRhbmEyCBAhGKABGMMESMgFUABYowNwAHgAkAEAmAHLAaAB6gSqAQUwLjMuMbgBA8gBAPgBAYgGAQ&sclient=gws-wiz-local#rlfi=hd:;si:;mv:[[-30.006286399999997,-51.154443799999996],[-30.081178500000004,-51.23313530000001]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
+    "IdPatient": null,
+    "Patient": null
+  },
+  {
+    "Name": "Lipidograma",
+    "Description": "Exame para análise de colesterol, LDL, HDL, VLDL e triglicerídeos que, quando estão em valores fora do normal, representam um grande risco para o desenvolvimento de diversas doenças.",
+    "UrlLocations": "https://www.google.com/search?q=exame+lipidograma+em+porto+alegre+e+regi%C3%A3o+metropolitana&sca_esv=577520305&rlz=1C1FCXM_pt-PTBR1072BR1072&biw=1280&bih=571&tbm=lcl&sxsrf=AM9HkKkNzITANNJabt9oA-caRzYbDBKIcg%3A1699141345658&ei=4dZGZdrdJ4Sp1sQPq_Oz8AE&ved=0ahUKEwia0tLiwquCAxWElJUCHav5DB4Q4dUDCAk&uact=5&oq=exame+lipidograma+em+porto+alegre+e+regi%C3%A3o+metropolitana&gs_lp=Eg1nd3Mtd2l6LWxvY2FsIjlleGFtZSBsaXBpZG9ncmFtYSBlbSBwb3J0byBhbGVncmUgZSByZWdpw6NvIG1ldHJvcG9saXRhbmEyBBAjGCdIhAVQjgFYuQNwAHgAkAEAmAGCAaAB9QKqAQMwLjO4AQPIAQD4AQHCAgcQIxiwAhgniAYB&sclient=gws-wiz-local#rlfi=hd:;si:2793896775810395338,l,CjlleGFtZSBsaXBpZG9ncmFtYSBlbSBwb3J0byBhbGVncmUgZSByZWdpw6NvIG1ldHJvcG9saXRhbmFIjN_NzeeVgIAIWkcQABABEAYQBxgDGAQiOWV4YW1lIGxpcGlkb2dyYW1hIGVtIHBvcnRvIGFsZWdyZSBlIHJlZ2nDo28gbWV0cm9wb2xpdGFuYZIBC21lZGljYWxfbGFimgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVIzTVV0TU9YQm5SUkFCqgGhARABKj0iOWV4YW1lIGxpcGlkb2dyYW1hIGVtIHBvcnRvIGFsZWdyZSBlIHJlZ2nDo28gbWV0cm9wb2xpdGFuYSgMMh8QASIbCsNyJRsL0Oh8exs75Ry5eYXfWtlCaJNAJFLYMj0QAiI5ZXhhbWUgbGlwaWRvZ3JhbWEgZW0gcG9ydG8gYWxlZ3JlIGUgcmVnacOjbyBtZXRyb3BvbGl0YW5h;mv:[[-29.964504255182433,-51.11045662973632],[-30.09142674481759,-51.222723170263656]]",
+    "IdPatient": null,
+    "Patient": null
+  }
+]

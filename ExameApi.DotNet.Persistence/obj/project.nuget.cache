@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QeA3Cxu4bfIFy0+6VrfBDP/dxe6iNNtsnCsslAPC65Fw0F4QV4CjyPFPlGEGViPR3hVTzOnPZGrKBpxi2bqsBA==",
+  "dgSpecHash": "kB5ofWpPs8V5mkjC8RmUmCnjjUXS52YT26LeljOJ7OxhWejK7ze77lOxYu+Ei93nhKKRXWvKdo0RU5i9QCd0UA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\ExameApi\\ExameApi.DotNet.Persistence\\ExameApi.DotNet.Persistence.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\cintia.valente\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\cintia.valente\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\npgsql\\6.0.10\\npgsql.6.0.10.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.22\\npgsql.entityframeworkcore.postgresql.6.0.22.nupkg.sha512",
     "C:\\Users\\cintia.valente\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
