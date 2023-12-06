@@ -75,8 +75,6 @@ namespace ExameApi.DotNet.Persistence.Migrations
                     values: new object[] { exam.IdExam, exam.Name, exam.Description, exam.UrlLocations, exam.IdPatient }
                 );
             }
-
-
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
