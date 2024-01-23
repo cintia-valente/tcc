@@ -42,7 +42,7 @@ public class ExamService : IExamService
 
         List<string> requiredExams = new List<string>();
 
-        if (age >= 0)
+        if (age >= 0 && age <= 100)
         {
             requiredExams.AddRange(new List<string> { "Hemograma completo", "Exame de urina", "Glicemia", "Eletrocardiograma" });
         }
@@ -52,17 +52,17 @@ public class ExamService : IExamService
             requiredExams.Add("Papanicolau");
         }
 
-        if (gender == Gender.F && age >= 40)
+        if (gender == Gender.F && age >= 40 && age <= 100)
         {
             requiredExams.Add("Mamografia");
         }
 
-        if (gender == Gender.M && age >= 40)
+        if (gender == Gender.M && age >= 40 && age <= 100)
         {
             requiredExams.AddRange(new List<string> { "PSA e toque retal" });
         }
 
-        if (age <= 12)
+        if (age >= 0 && age <= 12)
         {
             requiredExams.AddRange(new List<string> { "Parasitológico", "Glicemia e insulina", "Sorologia" });
         }
@@ -72,17 +72,17 @@ public class ExamService : IExamService
             requiredExams.AddRange(new List<string> { "Lipidograma", "PCR" });
         }
 
-        if (age >= 35)
+        if (age >= 35 && age <= 100)
         {
             requiredExams.Add("TSH e T4");
         }
 
-        if (age >= 40)
+        if (age >= 40 && age <= 100)
         {
             requiredExams.Add("Teste ergométrico");
         }
 
-        if (age >= 50)
+        if (age >= 50 && age <= 100)
         {
             requiredExams.Add("Densitometria óssea");
         }
@@ -101,7 +101,9 @@ public class ExamService : IExamService
 
     public async Task<Exam> FindById(Guid id, bool tracking = true)
     {
+        Console.WriteLine($"Searching for exam with ID: {id}");
         var examData = await _examRepository.FindById(id, tracking);
+        Console.WriteLine($"Found exam: {examData}");
         return examData;
     }
 

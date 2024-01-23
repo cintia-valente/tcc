@@ -45,20 +45,27 @@ public class ExamController : ControllerBase
     [HttpGet()]
     public async Task<IEnumerable<Exam>> GetWeatherWithWeatherData()
     {
-        var weatherAll = await _examService.FindAll();
+        var examsAll = await _examService.FindAll();
 
-        return weatherAll.ToList();
+        return examsAll.ToList();
     }
 
     /// <summary>
     /// Lista um exame pelo id.
     /// </summary>
-    [HttpGet("{id}")]
-    public async Task<IActionResult> GetExamById(Guid id)
+    [HttpGet("{idExam}")]
+    public async Task<IActionResult> GetExamById(Guid idExam)
     {
-        var weather = await _examService.FindById(id);
+        var exam = await _examService.FindById(idExam);
 
-        return Ok(weather);
+        if (exam == null)
+        {
+            return NotFound(); // ou BadRequest() ou qualquer outro código de status apropriado
+        }
+
+        HttpContext.Response.Headers.Add("Content-Type", "application/json");
+
+        return Ok(exam);
     }
 
 }
